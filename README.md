@@ -18,8 +18,8 @@
   npm i
   
   ## Video
-  https://drive.google.com/file/d/1z6JsDB1Z0PnvR4QvGasnsdyNm_NQMouQ/view
-
+  Terminal:https://drive.google.com/file/d/1z6JsDB1Z0PnvR4QvGasnsdyNm_NQMouQ/view
+  Insomina:https://drive.google.com/file/d/1QstPqOjgnNQLfOkxzKBEalRs00sbmJRr/view
   ## License
   MIT
 
